@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "new-app"
+  "cli": {
+    "analytics": false
+  }
 }
