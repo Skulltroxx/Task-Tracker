@@ -1,3 +1,18 @@
+
+TASK TRACKER APP : made using Angular v15
+Backend Server runs using Json Server on localhost:5000
+
+# Install & Run JSON-Server
+    1. npm i json-server
+    2. run json server by typing `npm run server` in cmd
+    3. JSON-Server runs on localhost port 5000
+
+    - Make Sure the script for 'server' is added to 'package.json' file, i.e. `json-server --watch db.json --port 5000`
+    - `db.json` contains our database
+    
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # NewApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
@@ -25,3 +40,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
